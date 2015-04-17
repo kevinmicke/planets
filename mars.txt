@@ -2,4 +2,4 @@ Mars is red.
 Second line.
 Third
 4th.
-5th line local.
+5th line local plus the remote one: Making a conflict.
